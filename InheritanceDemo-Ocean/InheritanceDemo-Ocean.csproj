@@ -43,11 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algae.cs" />
+    <Compile Include="Animal.cs" />
+    <Compile Include="Dolphin.cs" />
     <Compile Include="Entity.cs" />
     <Compile Include="Fish.cs" />
+    <Compile Include="Fungi.cs" />
     <Compile Include="Mammal.cs" />
+    <Compile Include="Otter.cs" />
+    <Compile Include="Plant.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Whale.cs" />
     <Compile Include="World.cs" />
   </ItemGroup>
   <ItemGroup>

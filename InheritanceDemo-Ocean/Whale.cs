@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InheritanceDemo_Ocean
 {
-    class Fish: Animal
+    class Whale: Mammal
     {
     }
 }
