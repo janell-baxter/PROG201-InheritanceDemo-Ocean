@@ -8,5 +8,6 @@ namespace InheritanceDemo_Ocean
 {
     class Animal: Entity
     {
+       
     }
 }

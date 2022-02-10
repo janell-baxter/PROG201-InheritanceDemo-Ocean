@@ -8,5 +8,21 @@ namespace InheritanceDemo_Ocean
 {
     class Entity
     {
+        public string Name;
+
+        public Entity()
+        {
+
+        }
+        public Entity(string name)
+        {
+            Name = name;
+        }
+
+        public virtual void Consume()
+        {
+
+            //name of the animal eats
+        }
     }
 }

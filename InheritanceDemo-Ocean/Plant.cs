@@ -8,5 +8,11 @@ namespace InheritanceDemo_Ocean
 {
     class Plant: Entity
    {
+
+        public override void Consume()
+        {
+            //photosysnthiss occurs
+            base.Consume();
+        }
     }
 }
